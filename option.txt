@@ -1,0 +1,7 @@
+{
+    "target_percent" : 0.88,
+    "trigger_percent" : 0.945,
+    "get_UST_option" : [ "MINE LP", "aUST"],
+    "instant_burn" : "off",
+    "max_premium_rate": ""
+}
